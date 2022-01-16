@@ -3,7 +3,7 @@ ACE-HGNN in Pytorch
 
 This repository is the implementation of ACE-HGNN in PyTorch.
 
-[[Paper] *ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network*](https://arxiv.org/pdf/2110.07888)
+[[ICDM 2021] *ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network*](https://arxiv.org/pdf/2110.07888)
 
 ## Environment 
 Below are some essential pypi packages we use on our own experiment environment. You may install their dependencies at the same time.
