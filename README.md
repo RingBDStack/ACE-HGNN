@@ -58,11 +58,13 @@ We also thanks for the computing infrastructure provided by Beijing Advanced Inn
 
 ## Citation
 ```
-@article{fu2021ace,
+@inproceedings{fu2021ace,
   title={ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network},
-  author={Fu, Xingcheng and Li, Jianxin and Wu, Jia and Sun, Qingyun and Ji, Cheng and Wang, Senzhang and Tan, Jiajun and Peng, Hao and Yu, Philip S},
-  journal={arXiv preprint arXiv:2110.07888},
-  year={2021}
+  author={Fu, Xingcheng and Li, Jianxin and Wu, Jia and Sun, Qingyun and Ji, Cheng and Wang, Senzhang and Tan, Jiajun and Peng, Hao and Philip, S Yu},
+  booktitle={2021 IEEE International Conference on Data Mining (ICDM)},
+  pages={111--120},
+  year={2021},
+  organization={IEEE Computer Society}
 }
 ```
 
